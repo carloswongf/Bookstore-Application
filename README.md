@@ -2,4 +2,4 @@
 
 A Fully-Featured Bookstore Application
 
-Term Project for objected-oriented engineering design and analysis academic course
+Term Project for Objected-oriented Engineering Design and Analysis academic course (COE528)
